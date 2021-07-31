@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"You have to dream before your dreams can come true"
 Use the left arrow to go back!
